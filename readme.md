@@ -1,1 +1,1 @@
-#Learn github actions
+#Learn git and github actions
